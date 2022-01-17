@@ -10,3 +10,6 @@ It is interesting to note that the importance of uni-grams and bi-grams may cont
 3. Analysis of the UBIS and baseline techniques over three different dataset for varying Ratio of Training and Testing (RTT) set. The experiments show that the reduced set of
 features is extracted with significantly improved results.
 
+# Results
+
+We improved the results with UBIS upto 5.7% and 5.3% of F-measure and Accuracy, respectively.
